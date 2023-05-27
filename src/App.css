@@ -1,8 +1,0 @@
-.App {
-  background: var(--bg-color);
-  height: 100vh;
-  display: flex;
-  color: white;
-  flex-direction: column;
-  align-items: center;
-}
